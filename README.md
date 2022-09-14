@@ -1,7 +1,6 @@
 # README #
 
-Source Code Aplikasi Stok dan Penjualan Barang
+Aplikasi Inventory Distribusi Barang
 
-By [Kang Jaz](https://kangjaz.com)
 # inventory
 # Repository-Baru
